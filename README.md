@@ -1,0 +1,2 @@
+# PicurePerfect
+delete duplicate pictures
